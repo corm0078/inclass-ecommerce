@@ -1,0 +1,10 @@
+.img-flex{
+	width: 100%;
+	display: block;
+}
+
+.product{
+	border-radius: 10px;
+	background-color: #c7c0ae;
+	padding: 1rem;
+}
