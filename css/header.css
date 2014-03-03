@@ -25,6 +25,10 @@
   margin: 0 0.4em;
 }
 
+.current{
+ background-color: red;   
+}
+
 @media only screen and (min-width: 50em) {
 
   .nav {
@@ -32,4 +36,16 @@
     text-align: right;
   }
 
+}
+
+.banner {
+    background: #6e9d1b url('../images/banner.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 5rem 1rem 1rem;
+    text-align: center;
+    color: #fff;
+}
+
+.banner h1{
+    color: #38763a;
 }
