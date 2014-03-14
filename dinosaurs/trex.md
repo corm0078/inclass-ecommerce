@@ -1,5 +1,10 @@
 ---
-
+layout: dinosaurs
+category: dinosaurs
+title: Tyrannosaurus
+time_period: Jurassic
+diet: Omnivore
+image: land-dinos/diplodocus.jpg
 ---
 
 *Tyrannosaurus* is the **most** fierce dinosaur that ever exixted.
